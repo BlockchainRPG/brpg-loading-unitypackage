@@ -1,6 +1,6 @@
 {
-  "name": "com.omiyagames.template",
-  "displayName": "Omiya Games - Template Unity Package",
+  "name": "io.blockchainrpg.loading",
+  "displayName": "BlockchainRPG Loading Animation",
   "version": "1.0.0-pre.1",
   "unity": "2021.2",
   "unityRelease": "11f1",
