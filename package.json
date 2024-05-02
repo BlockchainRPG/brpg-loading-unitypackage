@@ -13,9 +13,6 @@
     "email": "support@omiyagames.com",
     "url": "https://www.omiyagames.com"
   },
-  "dependencies": {
-    "com.unity.ext.nunit": "1.0.0"
-  },
   "keywords": [
     "Omiya Games",
     "Scripts",
