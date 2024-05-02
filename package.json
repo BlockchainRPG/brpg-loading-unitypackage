@@ -1,10 +1,10 @@
 {
   "name": "io.blockchainrpg.loading",
   "displayName": "BlockchainRPG Loading Animation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2021.2",
   "unityRelease": "11f1",
-  "description": "This is a template package, used as a basis to build a bigger one.",
+  "description": "This package contains the loading animation used in BlockchainRPG",
   "category": "Tool",
   "type": "tool",
   "license": "MIT",
