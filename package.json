@@ -9,21 +9,20 @@
   "type": "tool",
   "license": "MIT",
   "author": {
-    "name": "Taro Omiya",
-    "email": "support@omiyagames.com",
-    "url": "https://www.omiyagames.com"
+    "name": "BlockchainRPG",
+    "email": "support@blockchainrpg.io",
+    "url": "https://www.blockchainrpg.io"
   },
   "keywords": [
-    "Omiya Games",
+    "BlockchainRPG",
     "Scripts",
-    "Template",
     "Tool"
   ],
   "samples": [
     {
-      "displayName": "Example 1",
+      "displayName": "Example",
       "description": "This sample is just an example",
-      "path": "Samples~/Example1"
+      "path": "Samples~/Example"
     }
   ]
 }
